@@ -1,5 +1,7 @@
 # Virtual Trader SONA AI
 
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/Dar-41/Virtual-Trader-SONA-AI-)
+
 VT SONA: A next-gen Virtual trading dashboard with automated technical analysis, risk management tools, and real-time market insights. Visualizes SMC, EMAs, and RSI on interactive charts.
 
 A real-time multiplayer trading game for the Indian stock market, designed for live events, college fests, and projector demos.
