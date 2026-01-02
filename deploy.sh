@@ -57,8 +57,8 @@ echo -e "${BLUE}Step 3: Deployment Options${NC}"
 echo ""
 echo "Choose deployment method:"
 echo "1) Deploy to Netlify (Frontend)"
-echo "2) Deploy to Railway (Backend)"
-echo "3) Deploy both (Netlify + Railway)"
+echo "2) Deploy to Vercel (Frontend)"
+echo "3) Deploy to Railway (Backend)"
 echo "4) Just prepare files (no deployment)"
 echo ""
 read -p "Enter choice (1-4): " choice
@@ -132,4 +132,5 @@ echo "Don't forget to:"
 echo "1. Set environment variables in both platforms"
 echo "2. Update CORS settings in backend"
 echo "3. Test the live deployment"
+
 

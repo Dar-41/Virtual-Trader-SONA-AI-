@@ -67,3 +67,4 @@ export default function Leaderboard({ leaderboard, currentPlayerId }: Leaderboar
   );
 }
 
+

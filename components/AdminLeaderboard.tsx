@@ -75,3 +75,4 @@ export default function AdminLeaderboard({ leaderboard, players }: AdminLeaderbo
   );
 }
 
+

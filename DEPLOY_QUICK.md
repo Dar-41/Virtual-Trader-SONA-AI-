@@ -67,3 +67,4 @@ FRONTEND_URL=https://your-app.vercel.app
 NEXT_PUBLIC_SOCKET_URL=https://your-backend.railway.app
 ```
 
+
